@@ -18,7 +18,7 @@ All plans have been encoded to remove company confidential details, yet preserve
 | logical_plan_anonymized | Logical plan after running Presto command <br> explain (format graphviz) <query> | 
 | total_cpu_time_lg_norm | Recorded total CPU timing in minutes |
 
-If you are interested to access it, please email johan.kok@grabtaxi.com with the following details
+If you are interested to access it, please email mtx-prestroid@googlegroups.com with the following details
 - Full name
 - Company
 - Purpose of usage
