@@ -28,3 +28,7 @@ We will send the data over to your specified email address once approved.
 
 ### TPC-DS hive queries dataset
 Please see [tpc-ds](TPC-DS/)
+
+### Licensing 
+All MTX related data is under the MIT open source licensing scheme. 
+For more details, please see [licensing](LICENSE)
